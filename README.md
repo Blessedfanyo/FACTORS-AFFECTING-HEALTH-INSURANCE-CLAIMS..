@@ -1,4 +1,4 @@
-Factors Affecting Health Insurance Claims
+FACTORS AFFECTING HEALTH INSURANCE CLAIMS.
 ## 1️⃣ Introduction
 
 This project examines the **factors affecting health insurance claims** using Microsoft Excel analytics tools. The study focuses on identifying the major variables that influence **insurance charges**, such as age, BMI, smoking status, number of children, sex, and region.
