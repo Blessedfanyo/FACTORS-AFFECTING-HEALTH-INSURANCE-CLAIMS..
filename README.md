@@ -1,4 +1,4 @@
-<img width="611" height="63" alt="image" src="https://github.com/user-attachments/assets/f86e592b-70a9-4ac9-9526-9f63d700c819" /><img width="1475" height="63" alt="image" src="https://github.com/user-attachments/assets/5e0b2001-b51f-48f9-ace4-5595350eed86" /><img width="549" height="63" alt="image" src="https://github.com/user-attachments/assets/e8649f72-6c63-4b49-90f8-fe1735e482cc" /><img width="513" height="63" alt="image" src="https://github.com/user-attachments/assets/39eaff38-623d-47b8-a6dd-abbc891c2f98" /># FACTORS-AFFECTING-HEALTH-INSURANCE-CLAIMS..
+AFFECTING-HEALTH-INSURANCE-CLAIMS..
 Health insurance claims and charges varies among individuals due to  different factors. understanding these factors will enable  insurance providers to set an appopraite prenuim, while individuals can use this information to mange their health costs. this project analyses how different variable such as age, sex, BMI, region e.t.c
 
 > **Healthcare Data Analytics Portfolio Project** using Microsoft Excel to analyze the key factors influencing health insurance charges.
