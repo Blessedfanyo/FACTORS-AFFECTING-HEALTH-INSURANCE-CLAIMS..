@@ -1,4 +1,4 @@
-<img width="651" height="63" alt="image" src="https://github.com/user-attachments/assets/9f10a257-c978-4c83-b996-a532274dd19c" /># FACTORS-AFFECTING-HEALTH-INSURANCE-CLAIMS..
+# FACTORS-AFFECTING-HEALTH-INSURANCE-CLAIMS..
 Health insurance claims and charges varies among individuals due to  different factors. understanding these factors will enable  insurance providers to set an appopraite prenuim, while individuals can use this information to mange their health costs. this project analyses how different variable such as age, sex, BMI, region e.t.c
 ````markdown
 # 🏥 Factors Affecting Health Insurance Claims
