@@ -1,7 +1,5 @@
 # FACTORS-AFFECTING-HEALTH-INSURANCE-CLAIMS..
 Health insurance claims and charges varies among individuals due to  different factors. understanding these factors will enable  insurance providers to set an appopraite prenuim, while individuals can use this information to mange their health costs. this project analyses how different variable such as age, sex, BMI, region e.t.c
-````markdown
-# 🏥 Factors Affecting Health Insurance Claims
 
 > **Healthcare Data Analytics Portfolio Project** using Microsoft Excel to analyze the key factors influencing health insurance charges.
 
@@ -24,24 +22,24 @@ The core objective is to understand how personal and lifestyle variables influen
 ---
 
 ## 🎯 Project Objectives
-- Determine whether **age affects insurance charges**
-- Evaluate if **having more children increases medical costs**
-- Measure the relationship between **BMI and charges**
-- Identify the **strongest predictor of high claims**
-- Use regression to quantify how each factor impacts claim amount
-- Present insights through an **interactive Excel dashboard**
+- To identify key factors influencing health insurance charges
+- To analyze relationships between variables (e.g., age vs charges)
+- To determine which factors have the strongest impact on claims
+- To build simple predictive insights using Excel tool
 
 ---
 
 ## ❓ Business Questions Answered
-1. Does **age significantly affect health insurance charges**?
-2. Does **having children increase insurance claims cost**?
-3. How strongly does **smoking status drive charges**?
-4. Which variable contributes the **most to claim prediction**?
+1. Does age affect health insurance charges?
+
+2. How does BMI influence medical costs?
+
+3.   Do smokers pay higher insurance charges than non-smokers?
+ 
+4. Does having more children increase insurance costs?
+
 5. Are there regional differences in insurance charges?
 
-
----
 
 ## 🛠️ Tools & Skills Applied
 - **Microsoft Excel**
@@ -58,7 +56,6 @@ The core objective is to understand how personal and lifestyle variables influen
 ---
 
 ## 📂 Workbook Structure
-```text
 1. Uncleaned Dataset
 2. Cleaned Dataset
 3. Business Questions
