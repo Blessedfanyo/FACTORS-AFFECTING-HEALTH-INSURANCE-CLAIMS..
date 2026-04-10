@@ -1,14 +1,10 @@
 AFFECTING-HEALTH-INSURANCE-CLAIMS..
 Health insurance claims and charges varies among individuals due to  different factors. understanding these factors will enable  insurance providers to set an appopraite prenuim, while individuals can use this information to mange their health costs. this project analyses how different variable such as age, sex, BMI, region e.t.c
 
-> **Healthcare Data Analytics Portfolio Project** using Microsoft Excel to analyze the key factors influencing health insurance charges.
-
----
 
 ## 📌 Project Summary
-This project investigates the major **factors affecting health insurance claim costs** using a structured dataset and advanced Excel analytics techniques.
+The analysis shows that lifestyle factors, especially smoking and BMI, significantly influence health insurance charges. Age also plays an important role, while region has less impact. The regression analysis reveal that the number  of children has a statiscallysignificant but very weak positive effect on the insurance charges. the Model R square is 0.0046 indicates that children explains only 0.46% of variation charges. Although the coefficent suggest that each addidtional child increase charges by approximately 1252, the overall predictive power is low. it is not a major factor affecting health insurance  costs compared to stronger predictors such as smoking,BMI and Age
 
-The core objective is to understand how personal and lifestyle variables influence **medical insurance charges**, helping stakeholders make informed decisions on **pricing, risk assessment, and claims forecasting**.
 
 ### Variables Used
 - **Age**
