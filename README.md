@@ -1,5 +1,18 @@
 AFFECTING-HEALTH-INSURANCE-CLAIMS..
+## Introduction
 Health insurance claims and charges varies among individuals due to  different factors. understanding these factors will enable  insurance providers to set an appopraite prenuim, while individuals can use this information to mange their health costs. this project analyses how different variable such as age, sex, BMI, region e.t.c
+
+## ❓ Business Questions Answered
+1. Does age affect health insurance charges?
+
+2. How does BMI influence medical costs?
+
+3.   Do smokers pay higher insurance charges than non-smokers?
+ 
+4. Does having more children increase insurance costs?
+
+5. Are there regional differences in insurance charges?
+
 
 
 ## 📌 Project Summary
@@ -25,16 +38,6 @@ The analysis shows that lifestyle factors, especially smoking and BMI, significa
 
 ---
 
-## ❓ Business Questions Answered
-1. Does age affect health insurance charges?
-
-2. How does BMI influence medical costs?
-
-3.   Do smokers pay higher insurance charges than non-smokers?
- 
-4. Does having more children increase insurance costs?
-
-5. Are there regional differences in insurance charges?
 
 
 ## 🛠️ Tools & Skills Applied
